@@ -8,5 +8,6 @@
   * [架設 WordPress 部落格網站](ch02/create_wordpress_website.md)
 3. 建立與管理虛擬機器
 4. 資料庫與資料儲存平台
+  * [建立 SQL 資料庫](ch05/create_sql_database.md)
 5. 物聯網與資料分析應用
 6. Put It Together -- 最佳實踐與案例分享
