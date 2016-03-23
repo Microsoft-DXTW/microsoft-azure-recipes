@@ -12,7 +12,7 @@
 
 在左側的面板中找到 **新增** 或 **+** 的按鈕，按下新增按鈕後選擇 _資料 + 儲存體_ > _SQL Database_ 準備來建立一個網站空間來放要架設的網站。
 
-![建立 SQL 資料庫](https://skgitbook.blob.core.windows.net/azurerecipestw/ch04	/create_sql_database.png)
+![建立 SQL 資料庫](https://skgitbook.blob.core.windows.net/azurerecipestw/ch04/create_sql_database.png)
 _**圖 1**_. 建立 SQL 資料庫
 
 接著就是設定建立一些基本 SQL 資料庫的連線設定：
