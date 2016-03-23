@@ -10,6 +10,7 @@
 3. 建立與管理虛擬機器與虛擬網路
 4. 資料庫與資料儲存平台
   * [建立 SQL 資料庫](ch04/create_sql_database.md)
+  * [使用 Blob 儲存體服務儲存檔案及提供檔案服務](ch04/using_blob_storage.md)
 5. 物聯網與資料分析應用
 6. 其它 Azure 應用服務
   * [製作動態位元率的影音串流服務](ch06/using_media_services_to_stream_adaptive_videos.md)
