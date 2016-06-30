@@ -5,6 +5,7 @@
 1. 帳號、帳單、管理後台、操作工具
   * [線上註冊 Microsoft Azure 訂閱帳號](ch01/signup_azure_subscription_online.md)
 2. 網站及行動應用程式
+  * [架設簡單網站](ch02/create_a_static_website.md)
 3. 資料平台與分析工具
 4. 物聯網應用
 5. 物聯網與資料分析應用
