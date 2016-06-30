@@ -10,6 +10,7 @@
 4. 物聯網應用
 5. 物聯網與資料分析應用
 6. 影音串流與進階應用服務
+  * [建立媒體服務管理與播放影音檔案](ch06/getting_started_azure_media_services.md)
   * [製作動態位元率的影音串流服務](ch06/using_media_services_to_stream_adaptive_videos.md)
 7. 智慧與認知服務
 8. 開發與維運服務 (DevOps)
